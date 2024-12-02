@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Rnganath</h1>
-<h3 align="center">Undergraduate | South Eastern University of Sri Lanka Specialization: Software Engineering</h3>
+<h3 align="center">Undergraduate | South Eastern University of Sri Lanka, Specialization: Software Engineering</h3>
 <h4 align="center">
 
 🌱 About Me
