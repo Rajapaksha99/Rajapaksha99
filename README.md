@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kavindu Rnganath</h1>
 <h3 align="center">Undergraduate | South Eastern University of Sri Lanka</h3>
+<h4 align="center">Undergraduate | South Eastern University, Sri Lanka
+Specialization: Software Engineering
+
+🌱 About Me
+
+I am a Software Engineering student at South Eastern University, Sri Lanka. I enjoy learning how to design and build better applications. My goal is to solve problems and create simple, useful solutions that people find easy to use.</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajapaksha99&label=Profile%20views&color=0e75b6&style=flat" alt="rajapaksha99" /> </p>
 
